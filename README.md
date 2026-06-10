@@ -1,7 +1,4 @@
 # GSDSA1CCPX
-Abaixo está uma **documentação pronta para copiar** do seu projeto, usando as informações do enunciado, do código e do fluxograma, além dos seus dados acadêmicos.
-
----
 
 # Documentação do Projeto — Mission Control AI
 
